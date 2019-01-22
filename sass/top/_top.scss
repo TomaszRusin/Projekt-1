@@ -124,6 +124,8 @@ i {
             li {
                 display: flex;
                 justify-content: space-between;
+                border-left: none;
+                padding: 5px;
             }
         }
         .wallet {

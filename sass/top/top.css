@@ -97,7 +97,9 @@ i {
       width: inherit; }
       .top ul .hide li {
         display: flex;
-        justify-content: space-between; }
+        justify-content: space-between;
+        border-left: none;
+        padding: 5px; }
     .top ul .wallet {
       width: 210px; }
   .top li {
